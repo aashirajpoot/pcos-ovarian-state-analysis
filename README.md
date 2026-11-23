@@ -32,4 +32,4 @@ This is an academic analysis of a single structured dataset, not a clinically va
 
 ## Credits
 
-This was completed as an academic team project. Confirm the appropriate contributor acknowledgments and data attribution before making the repository public.
+This was completed as an academic team project.
