@@ -1,0 +1,18 @@
+# Local data and generated artifacts
+PCOS_data.csv
+pcos_severity_state_vectors*.csv
+Enhanced_Ovarian_PCOS_Pipeline_Output.csv
+data/
+outputs/
+*.joblib
+*.pkl
+
+# Notebook/runtime files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Local environment files
+.venv/
+venv/
+.env
